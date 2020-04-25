@@ -7,7 +7,7 @@
  * Instagram    : https://www.instagram.com/emtronics.official/
  * Facebook     : https://web.facebook.com/emtronics.official/
  * Website      : https://sagakusumawijaya94.wordpress.com/tutorials/arduino-tutorial/
- * Github       : https://github.com/sagakusumawijaya
+ * Github       : https://github.com/sagakusumawijaya/Arduino-ATM
  * Email        : emtronics.2018@gmail.com
  **/
 
