@@ -22,6 +22,7 @@ void setup() {
 
 
 void loop() {
+  lcd.clear();
   sensorValue = analogRead(PIN_SENSOR);
   voltage = sensorValue * 5 / 1024.0; // Mengkonversi nilai analog ke voltage
   
