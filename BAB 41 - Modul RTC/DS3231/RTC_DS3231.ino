@@ -106,10 +106,6 @@ void tampilLCD() {
   // ===================================== //
 }
 
-void setupLCD() {
-
-}
-
 void setup() {
 #if TAMPIL_SERIAL
   Serial.begin(9600);
@@ -117,7 +113,6 @@ void setup() {
 
   lcd.init();
   lcd.backlight();
-  setupLCD();
 
   rtc.begin();
 
