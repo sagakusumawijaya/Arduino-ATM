@@ -1,5 +1,5 @@
 # Library
-* I2C from download [here](https://github.com/johnrickman/LiquidCrystal_I2C)
+* I2C Library from [johnrickman](https://github.com/johnrickman) download [here](https://github.com/johnrickman/LiquidCrystal_I2C)
 * DS32231 Library from [rinkydinkelectronics](http://www.rinkydinkelectronics.com/) download [here](http://www.rinkydinkelectronics.com/library.php?id=73)
 
 # Datasheet
